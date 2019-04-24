@@ -1,0 +1,10 @@
+Q - Left Wall
+W - Right Wall
+O - Left Player
+P - Right Player
+A - Box
+S - Button
+C - Bear
+E - Pit
+Z - Left Exit
+X - Right Exit

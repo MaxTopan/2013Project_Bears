@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 45cd030f07819d94f98f289a358cdd35
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - leftWall: {fileID: 100000, guid: c3a9fbfb56fb6bd4fbd8e8c6b5c550a8, type: 2}
+  - rightWall: {fileID: 100000, guid: 251319c4c804488488d2c894f6f2451d, type: 2}
+  - leftPlayer: {fileID: 100000, guid: eb8837fb9c331de47941cb04e16695e1, type: 2}
+  - rightPlayer: {fileID: 100000, guid: c3cbe5932e9e17344a5dccb316cc6279, type: 2}
+  - leftExit: {fileID: 100000, guid: f30aa7fc8ba0a16479fe519158e56b33, type: 2}
+  - rightExit: {fileID: 100000, guid: 2655680916e84f84bad40f0e069255d1, type: 2}
+  - target1: {fileID: 100000, guid: c0388f75e1efaf948b01aa2616bf878b, type: 2}
+  - target2: {fileID: 100000, guid: e1cfbaa17b9aca24686d85bdbd6d0435, type: 2}
+  - box: {fileID: 100000, guid: 9e9f0b2f52490094f91f6e194bdbd923, type: 2}
+  - targetBox: {fileID: 100000, guid: ca945d4d43993394cb135f5e184c648d, type: 2}
+  - button: {fileID: 114494, guid: 89c2f22a2b675a5429d934e8ea04ea63, type: 2}
+  - bear: {fileID: 108948, guid: 9c6aa0a31c8d3c344bf856ffc40ac380, type: 2}
+  - pit: {fileID: 168402, guid: bd21dde9e0d6b0d4d8f7035297245bda, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
